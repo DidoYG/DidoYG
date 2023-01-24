@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DidoYG
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++, Kotlin, and Java
 
 <!---
 DidoYG/DidoYG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
