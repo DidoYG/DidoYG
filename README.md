@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DidoYG
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning C++, Kotlin, and Java
+- 🌱 I have experience with C++, Kotlin, Python, and Java
 
 - 📱 Check out my app on Google Play Store -> https://play.google.com/store/apps/details?id=com.didoyg.mypass
 
